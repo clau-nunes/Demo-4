@@ -1,0 +1,5 @@
+C:\Users\claud\Desktop\dio bootcamp\Demo 4\obj\Debug\netcoreapp3.1\Demo 4.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo 4\obj\Debug\netcoreapp3.1\Demo 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\dio bootcamp\Demo 4\obj\Debug\netcoreapp3.1\Demo 4.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\Demo 4\obj\Debug\netcoreapp3.1\Demo 4.AssemblyInfo.cs
+C:\Users\claud\Desktop\dio bootcamp\Demo 4\obj\Debug\netcoreapp3.1\Demo 4.csproj.CoreCompileInputs.cache
